@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ade-mir
-- 👀 I’m interested in natural bodybuilding, cooking, self-development, grand strategy games, meditation and learning how to become a front-end devloper.
+- 👀 I’m interested in natural bodybuilding, cooking, self-development, grand strategy games, meditation and learning front-end development.
 - 🌱 I’m currently learning CSS, HTML, JavaScript.
 - 💞️ I’m looking to collaborate on JavaScript
 - 📫 How to reach me: https://no.linkedin.com/in/ademiralijagic
