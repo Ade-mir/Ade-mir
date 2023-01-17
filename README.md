@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ade-mir
-- 🌱 I’m currently learning CSS, HTML, JavaScript.
+- 🌱 I’m currently learning JavaScript and making CRUD apps from scratch.
 - 📫 How to reach me: https://no.linkedin.com/in/ademiralijagic
 
 <!---
