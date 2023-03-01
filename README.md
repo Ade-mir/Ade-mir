@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Ade-mir
-- 🌱 I’m currently learning React!
+- 🌱 I’m currently learning to build fullstack React apps!
+- 💼 My past projects on my Portfolio: https://ademir.io
 - 📫 How to reach me: https://no.linkedin.com/in/ademiralijagic
 
 <!---
