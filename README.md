@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ade-mir
-- 🌱 I’m currently starting a new job as a frontend developer
+- 🌱 Working as a frontend developer with Angular
 - 💼 My past projects on my Portfolio: https://ademir.io
 - 📫 How to reach me: https://no.linkedin.com/in/ademiralijagic
 
